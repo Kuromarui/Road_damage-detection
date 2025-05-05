@@ -1,0 +1,9 @@
+colors:
+- [133, 15, 138]
+- [138, 99, 15]
+- [15, 23, 138]
+- [106, 255, 0]
+names: [minor defects, lateral crack, longitudinal crack, pothole]
+nc: 4
+train: ../images/train
+val: ../images/val
